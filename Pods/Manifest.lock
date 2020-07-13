@@ -1,0 +1,42 @@
+PODS:
+  - AnimatableReload (0.2.0)
+  - PullToRefresher (3.2)
+  - Realm (4.1.1):
+    - Realm/Headers (= 4.1.1)
+  - Realm/Headers (4.1.1)
+  - RealmSwift (4.1.1):
+    - Realm (= 4.1.1)
+  - SwiftKeychainWrapper (3.4.0)
+  - SwiftySound (1.1.0)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - AnimatableReload (~> 0.2)
+  - PullToRefresher (~> 3.2)
+  - RealmSwift
+  - SwiftKeychainWrapper
+  - SwiftySound
+  - SwipeCellKit (~> 2.7)
+
+SPEC REPOS:
+  trunk:
+    - AnimatableReload
+    - PullToRefresher
+    - Realm
+    - RealmSwift
+    - SwiftKeychainWrapper
+    - SwiftySound
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  AnimatableReload: 9576d3019bfb103f76b5f37fa6f8915bd8307527
+  PullToRefresher: 746c1089710eb74a3a584921549296a2fe573314
+  Realm: 25f0a8244cbb1c2271c922963ea8666fc2d8104d
+  RealmSwift: 9e2657b33764f80e4a4dffd6d440e24715782052
+  SwiftKeychainWrapper: 6fc49fbf7d4a6b0772917acb0e53a1639f6078d6
+  SwiftySound: eb46cc2399cf7d94f58c372f38216e15e0a6de3e
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: bd2c2d23b5ff5788a2d2e4486414858886bb5954
+
+COCOAPODS: 1.8.4

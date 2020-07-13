@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-CryptoConverter/Pods-CryptoConverter-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AnimatableReload/AnimatableReload.framework
+${BUILT_PRODUCTS_DIR}/PullToRefresher/PullToRefresh.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftKeychainWrapper/SwiftKeychainWrapper.framework
+${BUILT_PRODUCTS_DIR}/SwiftySound/SwiftySound.framework
+${BUILT_PRODUCTS_DIR}/SwipeCellKit/SwipeCellKit.framework
